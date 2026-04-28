@@ -3,13 +3,14 @@
     <Import Project="..\config.props" />
     
     <PropertyGroup>
+        <PackageId>TnmsAdministrationPlatform.Shared</PackageId>
         <AssemblyName>TnmsAdministrationPlatform.Shared</AssemblyName>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
         <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
-    
+
     <ItemGroup>
-        <PackageReference Include="ModSharp.Sharp.Shared" Version="2.1.79" ExcludeAssets="runtime" />
+        <PackageReference Include="ModSharp.Sharp.Shared" Version="2.1.121" ExcludeAssets="runtime" />
     </ItemGroup>
 
 </Project>
