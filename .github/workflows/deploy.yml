@@ -13,7 +13,7 @@ jobs:
       shared-projects-phase1: TnmsAdministrationPlatform.Shared
       platforms: linux-x64 win-x64
       main-artifact-name: TnmsAdministrationPlatform
-      main-artifact-include: shared
+      main-artifact-include: modules shared
       shared-dlls-to-remove: |
         TnmsAdministrationPlatform.Shared.dll
       nuget-project-dirs: TnmsAdministrationPlatform.Shared
