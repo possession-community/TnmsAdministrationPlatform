@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TnmsAdministrationPlatform.Shared/TnmsAdministrationPlatform.Shared.csproj" />
+  <Project Path="TnmsAdministrationPlatform/TnmsAdministrationPlatform.csproj" />
+</Solution>
